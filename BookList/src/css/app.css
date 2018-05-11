@@ -1,0 +1,15 @@
+.book-list {
+    background-color: black;
+    height: 600px;
+}
+
+.book-content {
+    background-color: chartreuse;
+    height: 600px;
+}
+
+.books {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
